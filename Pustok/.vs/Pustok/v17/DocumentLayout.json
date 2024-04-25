@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\71. 25-04-2024\\pustok\\pustok\\areas\\manage\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\71. 25-04-2024\\pustok\\pustok\\areas\\manage\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\71. 25-04-2024\\pustok\\pustok\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\71. 25-04-2024\\pustok\\pustok\\areas\\manage\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\71. 25-04-2024\\pustok\\pustok\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Pustok\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Models\\Genre.cs",
+              "RelativeToolTip": "Pustok\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:44:50.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAawDgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:19:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Genre\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Genre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Genre\\Index.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Genre\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:18:44.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Genre\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Genre\\Create.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Genre\\Create.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Genre\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:13:42.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\71. 25-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:13:05.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
